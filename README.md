@@ -1,5 +1,5 @@
 # Performance-Metrics-of-E-Commerce
-** Overview**
+**Overview**
 This project focuses on analyzing e-commerce performance metrics, helping stakeholders understand monthly and yearly trends based on historical data. Using various KPIs (Key Performance Indicators), the analysis provides actionable insights to optimize business strategies. This project leverages Python, SQL, and data visualization tools to track metrics, generate reports, and visualize trends effectively.
 
 ## Table of Contents
